@@ -307,4 +307,4 @@ int main() {
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8173a25a-29f3-4566-926a-d284ffadf654" />
 
 ## RESULT:
-Thus, the program has been executed using CUDA to implement.
+Thus, the program has been executed using CUDA to implement bubble and merge sort, and it shows the time of bubble sort CPU is took 327.330164 milliseconds and by GPU it took 0.670624 milliseconds and for merge sort it shows the time it took by CPU is 2.868771 milliseconds and for GPU it took 373.948151 milliseconds.****
